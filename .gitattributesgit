@@ -1,0 +1,1 @@
+"* text=auto"  add .gitattributesgit commit -m "Add .gitattributes to normalize line endings"
